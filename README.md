@@ -1,10 +1,9 @@
 # Flatland Monokai Theme
 
-A theme based on the flatland-monokai TextMate Theme. ![](http://vsmarketplacebadge.apphb.com/installs/thanhtrang.theme-flatland-monokai.svg)
+A theme based on the flatland-monokai TextMate Theme.
 
 ## Screenshot
 ![Screenshot](https://raw.githubusercontent.com/trangcongthanh/flatland-monokai/master/screenshot.png)
-
 
 ## More Information
 * [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=thanhtrang.theme-flatland-monokai).
