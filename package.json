@@ -1,19 +1,21 @@
 {
-	"name": "Theme Flatland Monokai",
-	"version": "0.0.1",
-	"publisher": "trangcongthanh",
-	"engines": { "vscode": "*" },
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/trangcongthanh/flatland-monokai"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"label": "Flatland Monokai",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Flatland_Monokai.tmTheme"
-			}
-		]
-	}
+    "name": "theme-flatland-monokai",
+    "version": "0.1.0",
+    "publisher": "thanhtrang",
+    "engines": {
+        "vscode": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/trangcongthanh/flatland-monokai"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Flatland Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Flatland_Monokai.tmTheme"
+            }
+        ]
+    }
 }
