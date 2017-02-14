@@ -1,8 +1,8 @@
 {
     "name": "theme-flatland-monokai",
-		"displayName": "Flatland Monokai",
-		"description": "A theme based on the flatland-monokai TextMate Theme",
-    "version": "0.1.0",
+    "displayName": "Flatland Monokai",
+    "description": "A theme based on the flatland-monokai TextMate Theme",
+    "version": "0.1.1",
     "publisher": "thanhtrang",
     "engines": {
         "vscode": "*"
@@ -11,9 +11,9 @@
         "type": "git",
         "url": "https://github.com/trangcongthanh/flatland-monokai"
     },
-		"categories": [
-			"Themes"
-		],
+    "categories": [
+        "Themes"
+    ],
     "contributes": {
         "themes": [
             {
@@ -23,5 +23,5 @@
             }
         ]
     },
-		"icon": "icon.png"
+    "icon": "icon.png"
 }
