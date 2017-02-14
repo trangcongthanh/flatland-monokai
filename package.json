@@ -2,7 +2,7 @@
     "name": "theme-flatland-monokai",
     "displayName": "Flatland Monokai",
     "description": "A theme based on the flatland-monokai TextMate Theme",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "thanhtrang",
     "engines": {
         "vscode": "*"
